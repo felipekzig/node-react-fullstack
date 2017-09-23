@@ -1,0 +1,19 @@
+{
+  "name": "react-fullstack",
+  "version": "1.0.0",
+  "description": "# Links - https://www.udemy.com/node-with-react-fullstack-web-development/learn/v4/content (Course dashboard) - https://docs.google.com/document/d/1ZVLphlOH0PEOUCd5v2UJVHiRSKuYjJI-AS4xQWYXmq8/edit (Resources)",
+  "main": "index.js",
+  "engines": {
+    "node": "8.5.0",
+    "npm": "4.2.0"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
